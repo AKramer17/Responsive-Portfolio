@@ -1,0 +1,46 @@
+header .headerContainer {
+    width: 728px;
+  }
+   /* .myName {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+  } */
+   /* .nav {
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+    font-size: 20px;
+  }
+   .nav ul li {
+    padding-left: 40px;
+    margin-left: 40px;
+  }
+   .nav ul li:first-child {
+    margin-left: 0;
+    padding-left: 0;
+  } */
+   .bodyContainer {
+      width: 728px;
+  }
+   .core {
+    width: 728px;
+    margin: 20px auto;
+  }
+   .portfolio {
+    text-align: left;
+  }
+   .portfolio ul li {
+    width: 100%;
+    margin-left: 17px;
+    margin-right: 17px;
+    list-style: none;
+  }
+
+  form {
+      max-width: 565px;
+  }
+
+  .portfolio ul {
+      list-style: none;
+  }

@@ -1,0 +1,48 @@
+header .headerContainer {
+    width: 600px;
+  }
+   .myName {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+  }
+   .nav {
+    width: 160px;
+    text-align: center;
+    padding: 25px;
+    font-size: 20px;
+  }
+   .nav ul li {
+    padding-left: 40px;
+    margin-left: 40px;
+  }
+   .nav ul li:first-child {
+    margin-left: 0;
+    padding-left: 0;
+  }
+   .bodyContainer {
+      width: 560px;
+  }
+  .bodyContainer .core p {
+    width: 550px;
+    padding-right: 40px;
+  }
+   .core {
+    width: 100%;
+    margin: 20px auto;
+  }
+   .portfolio {
+    text-align: center;
+  }
+   .portfolio ul li {
+    width: 100%;
+    margin: 0 auto;
+    list-style: none;
+  }
+  .portfolio ul {
+    list-style: none;
+  }
+  form {
+    width: 100%;
+    max-width: 100%;
+  }
